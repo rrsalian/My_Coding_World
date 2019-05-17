@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25d17eb3-54ba-436c-a8a5-c013b338a1d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/0/000e79cc2672001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/33/703bfde62672001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/50/d00c40f52672001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/51/20656d72fc71001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/8a/00e790779675001914efe133ebe9f8d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/be/b00dee81fc71001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/f6/e02b16f0eb75001914efe133ebe9f8d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/ABC_InterviewQuetions/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/DoughtSession/.indexes/e4/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/DoughtSession/.indexes/e4/history.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/Telusko/.indexes/e4/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/Telusko/.indexes/e4/history.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/Telusko/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/rakshith/.indexes/e4/8c/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/rakshith/.indexes/e4/8c/history.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/rakshith/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.root/42.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/1017536650.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/1508370300.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/1618546576.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/181224811.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/1818320769.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/2112015612.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/2226939744.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/2234634515.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/288970169.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/3694422061.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/3694422061.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/3851991267.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/3851991267.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/4288071203.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/4294837718.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/651251364.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xpath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xpath/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25d17eb3-54ba-436c-a8a5-c013b338a1d4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,7 +108,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,7 +217,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18898809" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18898809" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -268,7 +228,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.58101475" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.58101475" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
