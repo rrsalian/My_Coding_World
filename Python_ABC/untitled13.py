@@ -1,0 +1,1 @@
+print(list(map(lambda x:x*11,list(filter(lambda x:x%3==0 and x%5==0,list(range(1,200)))))))

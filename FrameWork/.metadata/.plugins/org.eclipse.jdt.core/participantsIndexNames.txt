@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+E:\FrameWork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1543117669.index
+\StrutWithoutValidation\src
+E:\FrameWork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3380838260.index
+\Strut1\src
+E:\FrameWork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\447862042.index
+\Struts1\src
+E:\FrameWork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1620631794.index
+\StrutsWithMultipleClass\src

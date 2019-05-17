@@ -1,0 +1,12 @@
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">     		
+<struts>
+    <package name="abc" extends="struts-default">
+	 <action name="fwd"  class="p1.Action">
+     <result name="s">success.jsp</result>
+     <result name="f">Failure.html</result>
+     <result name="input">/index.jsp</result>
+    </action>
+	 </package>
+</struts>

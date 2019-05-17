@@ -1,0 +1,12 @@
+def demo(a,b):
+    print("the value of a=",a)
+    print('the value of b=',b)
+demo(10,20)
+print()
+demo(a=10,b=20)
+print()
+demo(b=10,a=20)
+print()
+demo(10,b=20)
+print()
+demo(a=30,40)

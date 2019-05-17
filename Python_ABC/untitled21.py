@@ -1,0 +1,1 @@
+print(list(map(lambda x:x//10,(filter(lambda x:x%5==0,list(map(lambda x:x**5,(filter(lambda x:x%3==0,[i for i in range(1,501)])))))))))

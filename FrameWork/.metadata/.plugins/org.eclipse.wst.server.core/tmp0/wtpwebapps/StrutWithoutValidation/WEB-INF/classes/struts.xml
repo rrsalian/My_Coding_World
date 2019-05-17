@@ -1,0 +1,11 @@
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">     		
+<struts>
+    <package name="abc" extends="struts-default">
+	 <action name="reg"  class="p1.registerAction">
+     <result name="s">success.html</result>
+     <result name="f">failure.html</result>
+    </action>
+	 </package>
+</struts>
