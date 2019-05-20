@@ -4,12 +4,18 @@ package rakshith;
 class Demo1{
 	int a=10;
 	void m1() {
+		
 		System.out.println("hello");
 	}
 	void m1(int i) {
+		
 		System.out.println("bye");
 	}
 	public int Demo1(int a) {
+		return a;
+	}
+	
+	public int Demo1() {
 		return a;
 	}
 }
