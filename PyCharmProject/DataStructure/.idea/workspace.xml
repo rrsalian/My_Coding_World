@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e0f9a65-6855-47fb-a9a7-1a484c9f944c" name="Default Changelist" comment="">
+    <list default="true" id="79a9545c-b05c-4641-b6c0-3df32afbf73d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookMyShow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Programming/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Programming/Anagram.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Programming/Pangram.py" afterDir="false" />
@@ -16,11 +17,12 @@
       <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled46.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/bin/rakshith/rrsalian16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/bin/rakshith/rrsalian16.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/src/rakshith/rrsalian16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/src/rakshith/rrsalian16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BookMyShow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BookMyShow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookMyShow/.idea/BookMyShow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyShow/.idea/BookMyShow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookMyShow/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyShow/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookMyShow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyShow/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_ABC/ipython.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_ABC/ipython.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Main.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stack_DataStructure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+            <state relative-caret-position="294">
+              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new1.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1911">
-              <caret line="91" selection-start-line="91" selection-end-line="91" />
+            <state relative-caret-position="105">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -63,15 +65,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Main.py" />
-        <option value="$PROJECT_DIR$/new1.py" />
+        <option value="$PROJECT_DIR$/Stack_DataStructure.py" />
+        <option value="$PROJECT_DIR$/new.py" />
       </list>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
+        <option value="$PROJECT_DIR$/.idea/DataStructure.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -92,24 +97,14 @@
         <subPane>
           <expand>
             <path>
-              <item name="BookMyShow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookMyShow" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\defaultuser1.RRSALIAN\PyCharmProject\BookMyShow" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,9 +118,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Main">
-    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BookMyShow" />
+  <component name="RunManager" selected="Python.new">
+    <configuration name="Stack_DataStructure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -136,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_DataStructure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,8 +140,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="new1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BookMyShow" />
+    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -157,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,8 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Main" />
-        <item itemvalue="Python.new1" />
+        <item itemvalue="Python.new" />
+        <item itemvalue="Python.Stack_DataStructure" />
       </list>
     </recent_temporary>
   </component>
@@ -178,24 +173,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e0f9a65-6855-47fb-a9a7-1a484c9f944c" name="Default Changelist" comment="" />
-      <created>1557045457282</created>
+      <changelist id="79a9545c-b05c-4641-b6c0-3df32afbf73d" name="Default Changelist" comment="" />
+      <created>1558518126574</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557045457282</updated>
+      <updated>1558518126574</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12574404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.95090014" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5564648" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -207,80 +202,19 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12574404" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.95090014" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5564648" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="bill" language="Python" />
-        <watch expression="seat" language="Python" />
-        <watch expression="seat_cpy" language="Python" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>seat_cpy</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>seat</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>bill</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+    <entry file="file://$PROJECT_DIR$/Stack_DataStructure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="324" selection-start-line="324" selection-end-line="324" />
+        <state relative-caret-position="294">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
+    <entry file="file://$PROJECT_DIR$/new.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="806" selection-start-line="806" selection-end-line="806" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1911">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        <state relative-caret-position="105">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
