@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a9545c-b05c-4641-b6c0-3df32afbf73d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BookMyShow/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming/Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming/Pangram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-2/New/Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-2/New/Fuzz_Buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-2/New/Generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-2/New/Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled46.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/bin/rakshith/rrsalian16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/bin/rakshith/rrsalian16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/src/rakshith/rrsalian16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/src/rakshith/rrsalian16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookMyShow/.idea/BookMyShow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyShow/.idea/BookMyShow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookMyShow/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyShow/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookMyShow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyShow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python_ABC/ipython.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_ABC/ipython.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Stack_DataStructure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="987">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -105,6 +85,10 @@
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Programming" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,8 +190,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Stack_DataStructure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="987">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
         </state>
       </provider>
     </entry>
