@@ -8,5 +8,4 @@ while num>0:
     res+=r*2**k
     k+=1
     num//=10
-
 print(res)

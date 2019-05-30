@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d257d5a9-b361-4333-8b4e-3b6bc6e53716" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SortDifferently.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled54.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryToDecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryToDecimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_ABC/ipython.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_ABC/ipython.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/Prime_or_Not.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="10" column="30" lean-forward="true" selection-end-line="11" />
+              <caret line="10" column="30" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -29,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/SubString_in_String.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" column="11" lean-forward="true" selection-end-line="17" />
+              <caret line="15" column="11" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -38,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/Factorial.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="10" lean-forward="true" selection-end-line="4" selection-end-column="10" />
+              <caret line="4" column="10" selection-end-line="4" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -47,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/ReverseNumber.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="10" lean-forward="true" selection-end-line="10" />
+              <caret line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -56,16 +67,25 @@
         <entry file="file://$PROJECT_DIR$/DecimalToBinary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="8" lean-forward="true" selection-end-line="9" selection-end-column="8" />
+              <caret line="9" column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryToDecimal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BinaryToDecimal.py">
+        <entry file="file://$PROJECT_DIR$/SortDifferently.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="63">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -101,10 +121,11 @@
         <option value="$PROJECT_DIR$/ReverseNumber.py" />
         <option value="$PROJECT_DIR$/DecimalToBinary.py" />
         <option value="$PROJECT_DIR$/BinaryToDecimal.py" />
+        <option value="$PROJECT_DIR$/SortDifferently.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -134,7 +155,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Script1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -149,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SubString_in_String">
+  <component name="RunManager" selected="Python.SortDifferently">
     <configuration name="BinaryToDecimal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReverseNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SortDifferently" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +246,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReverseNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortDifferently.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SortDifferently" />
         <item itemvalue="Python.SubString_in_String" />
         <item itemvalue="Python.Prime_or_Not" />
         <item itemvalue="Python.BinaryToDecimal" />
         <item itemvalue="Python.DecimalToBinary" />
-        <item itemvalue="Python.ReverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -300,14 +321,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.15773809" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.1532738" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90699404" weight="0.23404256" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.90699404" visible="true" weight="0.23404256" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -425,42 +446,49 @@
     <entry file="file://$PROJECT_DIR$/Prime_or_Not.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="30" lean-forward="true" selection-end-line="11" />
+          <caret line="10" column="30" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SubString_in_String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="15" column="11" lean-forward="true" selection-end-line="17" />
+          <caret line="15" column="11" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Factorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="10" lean-forward="true" selection-end-line="4" selection-end-column="10" />
+          <caret line="4" column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ReverseNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-end-line="10" />
+          <caret line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DecimalToBinary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="8" lean-forward="true" selection-end-line="9" selection-end-column="8" />
+          <caret line="9" column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BinaryToDecimal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SortDifferently.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>

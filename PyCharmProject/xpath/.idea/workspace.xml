@@ -5,40 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642b0aae-78d8-4f00-a91f-c9e2db4ea99b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/0/000e79cc2672001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/33/703bfde62672001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/50/d00c40f52672001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/51/20656d72fc71001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/8a/00e790779675001914efe133ebe9f8d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/be/b00dee81fc71001919b9a514795c0944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.history/f6/e02b16f0eb75001914efe133ebe9f8d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/DoughtSession/.indexes/e4/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/DoughtSession/.indexes/e4/history.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/Telusko/.indexes/e4/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/Telusko/.indexes/e4/history.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/rakshith/.indexes/e4/8c/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.projects/rakshith/.indexes/e4/8c/history.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.root/42.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/1017536650.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/1508370300.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/1618546576.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/181224811.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/1818320769.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/2112015612.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/2226939744.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/2234634515.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/288970169.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/3694422061.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/3694422061.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/3851991267.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/3851991267.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/4288071203.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/4294837718.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/651251364.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/SortDifferently.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled54.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/BinaryToDecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/BinaryToDecimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Script1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_ABC/ipython.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_ABC/ipython.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +28,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xpath1/Xpath1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumFrameWork" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Script1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -388,16 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xpath1/Xpath1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="87" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -622,6 +606,16 @@
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpath1/Xpath1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
