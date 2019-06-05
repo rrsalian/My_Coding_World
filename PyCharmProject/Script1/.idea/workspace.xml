@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6878fab7-cf01-49aa-920e-dcf497ffa2de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Programming/SortDifferently.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled54.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming/BinaryToDecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/BinaryToDecimal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xpath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xpath/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python_ABC/ipython.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_ABC/ipython.html" afterDir="false" />
-    </list>
+    <list default="true" id="6878fab7-cf01-49aa-920e-dcf497ffa2de" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ChromeOpenClose.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -53,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="294">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
@@ -65,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MagentoRegistration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="42">
               <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="83" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -77,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Browser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="189">
               <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -89,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FirefoxLaunch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="273">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -110,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FacebookLoacatorByClass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="126">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -135,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ChromeOpenClose.py" />
         <option value="$PROJECT_DIR$/IE_Launch.py" />
         <option value="$PROJECT_DIR$/Gmail_Launch.py" />
         <option value="$PROJECT_DIR$/GmailTitleVerify.py" />
@@ -166,6 +149,7 @@
         <option value="$PROJECT_DIR$/xpath.py" />
         <option value="$PROJECT_DIR$/FirefoxLaunch.py" />
         <option value="$PROJECT_DIR$/new.py" />
+        <option value="$PROJECT_DIR$/ChromeOpenClose.py" />
       </list>
     </option>
   </component>
@@ -181,6 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +177,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,6 +328,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" x="485" y="86" width="396" height="555" id="Project" order="0" sideWeight="0.4954955" visible="true" weight="0.20089285" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.1376488" />
@@ -591,9 +576,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="330" column="23" lean-forward="true" selection-start-line="330" selection-start-column="23" selection-end-line="330" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="793" selection-start-line="793" selection-end-line="793" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backword_Refresh_Forword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="13" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MagentoRegistration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="42">
           <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="83" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -603,8 +619,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Browser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="189">
           <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirefoxLaunch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -620,18 +646,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FacebookLoacatorByClass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="126">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backword_Refresh_Forword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="13" selection-end-line="23" selection-end-column="14" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -641,41 +657,10 @@
     <entry file="file://$PROJECT_DIR$/ChromeOpenClose.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="330" column="23" lean-forward="true" selection-start-line="330" selection-start-column="23" selection-end-line="330" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirefoxLaunch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="793" selection-start-line="793" selection-end-line="793" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

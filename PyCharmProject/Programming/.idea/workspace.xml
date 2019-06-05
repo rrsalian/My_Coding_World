@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d257d5a9-b361-4333-8b4e-3b6bc6e53716" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SortDifferently.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled54.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/.ipynb_checkpoints/NumpyBasic-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdvancePython/Numpy/NumpyBasic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryToDecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryToDecimal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python_ABC/ipython.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_ABC/ipython.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/ssdfgh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_ABC/untitled59.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/bin/rakshith/New.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/bin/rakshith/New.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/src/rakshith/New.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse-Java and Programming/rakshith/src/rakshith/New.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllSubsetOfList.py" beforeDir="false" afterPath="$PROJECT_DIR$/AllSubsetOfList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Script1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SortDifferently.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
               <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AllSubsetOfList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -109,7 +111,6 @@
         <option value="$PROJECT_DIR$/Alpha_Rangoli.py" />
         <option value="$PROJECT_DIR$/Al_Rangoli_Alpha.py" />
         <option value="$PROJECT_DIR$/Collindrome.py" />
-        <option value="$PROJECT_DIR$/AllSubsetOfList.py" />
         <option value="$PROJECT_DIR$/PossibleTriangleInArray.py" />
         <option value="$PROJECT_DIR$/SubsetOfList.py" />
         <option value="$PROJECT_DIR$/Alpha_Rangoli_Editorial.py" />
@@ -122,6 +123,7 @@
         <option value="$PROJECT_DIR$/DecimalToBinary.py" />
         <option value="$PROJECT_DIR$/BinaryToDecimal.py" />
         <option value="$PROJECT_DIR$/SortDifferently.py" />
+        <option value="$PROJECT_DIR$/AllSubsetOfList.py" />
       </list>
     </option>
   </component>
@@ -139,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +152,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,7 +172,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SortDifferently">
+  <component name="RunManager" selected="Python.AllSubsetOfList">
+    <configuration name="AllSubsetOfList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Rakshith R Salian\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AllSubsetOfList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BinaryToDecimal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,27 +207,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryToDecimal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DecimalToBinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Rakshith R Salian\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecimalToBinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AllSubsetOfList" />
         <item itemvalue="Python.SortDifferently" />
         <item itemvalue="Python.SubString_in_String" />
         <item itemvalue="Python.Prime_or_Not" />
         <item itemvalue="Python.BinaryToDecimal" />
-        <item itemvalue="Python.DecimalToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +330,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.90699404" visible="true" weight="0.23404256" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90699404" weight="0.4844517" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -400,13 +402,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Collindrome.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AllSubsetOfList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SubsetOfList.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -489,6 +484,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllSubsetOfList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
