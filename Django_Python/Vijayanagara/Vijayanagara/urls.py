@@ -16,7 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from FirstApp import views
+from TimeApp import views as v2
+from GreetApp import views as v3
+
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',views.welcome_to_django)
+    path('',views.welcome_template),
+    path('time/',v2.date_display),
+    path('greet/',v3.greet_disp),
 ]
