@@ -1,75 +1,41 @@
 package rakshith;
 
-public class New {
-	static int ar[][]= new int[4][4];
-	public static void main(String[] args) {
+/*package whatever //do not write package name here */
 
-		System.out.println(slou(3,3));
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class New {
+	public static void main (String[] args) {
+		//code
 		
-		for(int i=0;i<ar.length;i++) {
-			for(int j=0;j<ar[i].length;j++) {
-				System.out.print(ar[i][j]+" ");
-			}
-			System.out.println();
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		int a=sc.nextInt();
+		int a1[]=new int[a];
+		for(int i=0;i<a1.length;i++){
+		    a1[i]=sc.nextInt();
 		}
+		int b=sc.nextInt();
+		int b1[]=new int[b];
+		for(int i=0;i<b1.length;i++){
+		    b1[i]=sc.nextInt();
+		}
+		
+		    solution(a1);
+		    solution(b1);
 	}
 	
-	
-	//Recursion
-
-//	public static int slou(int i,int j) {
-//		k++;
-//		if (i==0&&j==0) {
-//			return 0;
-//		}
-//		else if(i==0 || j==0) {
-//			return 1;
-//		}
-//		else {
-//			return slou(i-1,j)+slou(i,j-1);
-//		}
-//	}
-	
-	
-	// Dynamic Recursion
-//	public static int slou(int i,int j) {
-//		if(ar[i][j]!=0) {
-//			return ar[i][j];
-//		}
-//		if (i==0&&j==0) {
-//			return 0;
-//		}
-//		else if(i==0 || j==0) {
-//			return 1;
-//		}
-//		else {
-//			ar[i][j]= slou(i-1,j)+slou(i,j-1);
-//		}
-//		
-//		System.out.println(i+"  "+j+" "+ ar[2][2]);
-//		return ar[i][j];
-//	}
-	
-	
-	//Dynamic
-	public static int slou(int m,int n) {
-	
-		for(int i=1;i<=m;i++) {
-			 ar[i][0]=1;
-		}
-		for(int i=1;i<=n;i++) {
-			ar[0][i]=1;
-		}
-		
-		
-		for(int i=1;i<=m;i++) {
-			for(int j=1;j<=n;j++) {
-				ar[i][j]=ar[i-1][j]+ar[i][j-1];
-				//System.out.println(i+" "+j);
-			}
-		}
-		
-		return ar[m][n];
+	public static void solution(int ar[]){
+	    Arrays.sort(ar);
+	    int sum=ar[0]+ar[1];
+	    
+	    for(int i=2;i<ar.length;i++){
+	        
+	        sum+=ar[i];
+	        
+	    }
+	    System.out.println(sum);
 	}
 }
-

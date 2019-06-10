@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+	{% load staticfiles %}
+<html>
+<head>
+	<title>Greet Image</title>
+</head>
+<body>
+	<h1>Server Time : {{time}}</h1>
+	<h2>{{greet}}</h2>
+	<img src="{% static "Images/abc.jpg" %}" height="500" width="1000">
+
+</body>
+</html>

@@ -18,10 +18,12 @@ from django.urls import path
 from FirstApp import views
 from TimeApp import views as v2
 from GreetApp import views as v3
+from GreetImg import views as v4
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',views.welcome_template),
     path('time/',v2.date_display),
     path('greet/',v3.greet_disp),
+    path('greetImg',v4.greet_img),
 ]
