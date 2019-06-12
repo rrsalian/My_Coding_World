@@ -1,4 +1,4 @@
-"""Vijayanagara URL Configuration
+"""EmployeeProject URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.1/topics/http/urls/
@@ -14,18 +14,8 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path,include
-from FirstApp import views
-from TimeApp import views as v2
-from GreetApp import views as v3
-from GreetImg import views as v4
-
+from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',views.welcome_template),
-    path('time/',v2.date_display),
-    path('greet/',v3.greet_disp),
-    path('greetImg/',v4.greet_img),
-    path('BankApp/',include('BankApp.urls'))
 ]
