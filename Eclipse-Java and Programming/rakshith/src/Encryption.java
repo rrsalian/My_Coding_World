@@ -8,7 +8,8 @@ public class Encryption {
 		String s=sc.nextLine();
 		System.out.println("Enter the key");
 		int k=sc.nextInt();
-
+		
+		k=(k>=26)?k-26:k;
 		//System.out.println(s +" "+k);
 
 		String t="";

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+	<title>Student Record</title>
+	<link rel="stylesheet" type="text/css" href="{% static "css/style.css" %}">
+</head>
+<body>
+
+	<h1>The Student Record</h1>
+
+
+	{% if records %}
+	<img src="{% static "images/aa.jpg" %}" height="100" width="150">
+		<table border="3">
+			<tr>
+				<th>Sname</th>
+				<th>SAddress</th>
+				<th>SAge</th>
+			</tr>
+			{% for student_record in records %}
+			<tr>
+				<td>{{ student_record.sname }}</td>
+				<td>{{ student_record.saddr }}</td>
+				<td>{{ student_record.sage }}</td>
+				
+			</tr>
+							
+			{% endfor %}			
+
+		</table>
+	{% else %}
+
+	<h1>No records to display</h1>
+	
+
+	{% endif %}
+
+</body>
+</html>

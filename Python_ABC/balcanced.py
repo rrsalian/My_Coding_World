@@ -1,18 +1,16 @@
-op=['(','{','[']
-cl=[')','}',']']
+n=int(input("Enter :"))
 
-def bal(s):
-    stack=[]
-    for i in s:
-        if i in op:
-            stack.append(i)
-        elif i in cl:
-            pos=cl.index(i)
-            if(len(stack)>0 and op[pos]==stack[len(stack)-1]):
-                stack.pop()
-            else:
-                return "unbalanced"
+s=""
+
+num=n
+
+while (num>0):
+    if(num%26==0):
+        s+='Z'
+        num=(num//26)-1
     else:
-        return "balanced"
-string = "[{}{})(]"
-print(bal(string))
+        s+=chr(64+num%26)
+        num//=26
+        
+        
+print(s[::-1])

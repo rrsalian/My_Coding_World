@@ -1,6 +1,10 @@
 s=input("Enter the String")
 k=int(input("Enter the Key"))
 t=""
+
+if k>=26:
+    k=k-26
+
 for i in s:
     if i.isalpha():
         if i.isupper():
