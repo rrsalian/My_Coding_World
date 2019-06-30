@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home Page</title>
+</head>
+<body>
+	<form action="/date">
+		{{ home.as_p }}
+		{% csrf_token %}
+		<input type="submit" name="" value="Enter name">
+	</form>
+</body>
+</html>

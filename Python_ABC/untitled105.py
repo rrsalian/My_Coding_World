@@ -1,4 +1,5 @@
-s="aaabbccc"
+s="aaabbccaac"
+s="".join(sorted(s))
 ss=""
 count=0
 for i in range(len(s)-1):
