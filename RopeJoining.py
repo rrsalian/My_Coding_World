@@ -1,0 +1,9 @@
+l=[1,1,1,4,3,2,1,7,8,3]
+r=0
+while(len(l)>1):
+    l.sort(reverse=True)
+    a=l.pop()
+    b=l.pop()
+    r+=a+b
+    l.append(a+b)
+print(r)
