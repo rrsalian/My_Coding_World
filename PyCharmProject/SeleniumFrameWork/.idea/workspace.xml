@@ -84,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-3" />
     <option name="y" value="4" />
     <option name="width" value="1346" />
@@ -134,7 +134,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for MagentoLogin.LoginTest">
+  <component name="RunManager" selected="Python.Read">
+    <configuration name="Read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataBase-MySql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataBase-MySql/Read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for MagentoLogin.LoginTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumFrameWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,12 +200,14 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for MagentoLogin.LoginTest" />
       <item itemvalue="Python tests.Unittests for PageObjectModelFrameWork.Test.MagentoTest" />
+      <item itemvalue="Python tests.Unittests for MagentoLogin.LoginTest" />
       <item itemvalue="Python tests.Unittests in MagentoTest.py" />
+      <item itemvalue="Python.Read" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Read" />
         <item itemvalue="Python tests.Unittests for MagentoLogin.LoginTest" />
         <item itemvalue="Python tests.Unittests in MagentoTest.py" />
       </list>
