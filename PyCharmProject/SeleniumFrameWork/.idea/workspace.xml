@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25d17eb3-54ba-436c-a8a5-c013b338a1d4" name="Default Changelist" comment="" />
+    <list default="true" id="25d17eb3-54ba-436c-a8a5-c013b338a1d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django_Practice/learning_users/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/learning_users/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled105.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../untitled105.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-3" />
     <option name="y" value="4" />
     <option name="width" value="1346" />
@@ -112,7 +121,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BookMyShow" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -200,10 +209,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for PageObjectModelFrameWork.Test.MagentoTest" />
-      <item itemvalue="Python tests.Unittests for MagentoLogin.LoginTest" />
-      <item itemvalue="Python tests.Unittests in MagentoTest.py" />
       <item itemvalue="Python.Read" />
+      <item itemvalue="Python tests.Unittests for MagentoLogin.LoginTest" />
+      <item itemvalue="Python tests.Unittests for PageObjectModelFrameWork.Test.MagentoTest" />
+      <item itemvalue="Python tests.Unittests in MagentoTest.py" />
     </list>
     <recent_temporary>
       <list>

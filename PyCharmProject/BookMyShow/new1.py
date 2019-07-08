@@ -23,7 +23,7 @@ def billing():
     print("Price           :  ", price, "Rs.", " per ticket", sep="")
     print("Quantity        : ", bill[3][0])
     print("Seats No        : ", end="")
-    for i in range(2, 2 + 4):
+    for i in range(int(bill[3][2]),int(bill[3][2])+bill[3][0]):
         print(" ", bill[3][1], i, sep="", end="")
     print("\n", "--" * 28, sep="")
     print("Sub Total       :  ", price * bill[3][0], "Rs.", sep="")
