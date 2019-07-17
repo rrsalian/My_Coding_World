@@ -1,14 +1,33 @@
 {% extends "PhotoApp/base.html" %}
+{% load staticfiles %}
 {% block body_block %}
+
 
 <div class="container">
   <div class="jumbotron">
-    <h1>Django Level Five</h1>
-    {% if user.is_authenticated %}
         <h2>Welcome {{ user.username }}!</h2>
-    {% else %}
-        <h2>Welcome to the site!</h2>
-    {% endif %}
+        
+         	
+        <img src="{% static 'images/image3.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image4.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image5.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image6.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image7.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image8.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image9.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image10.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image11.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image12.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image13.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image14.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image15.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image16.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image1.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image2.jpg' %}" height="300" width="500">
+        <img src="{% static 'images/image0.jpg' %}" height="300" width="500">
+        
+
+
   </div>
 </div>
 

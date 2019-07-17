@@ -18,7 +18,8 @@ from django.urls import path, include
 from PhotoApp import views
 
 urlpatterns = [
-    path('', views.home,name='home'),
+    path('',views.welcome,name='welcome'),
+    path('home/', views.home,name='home'),
     path('admin/', admin.site.urls),
     path('special/', views.special,name='special'),
     path('basic_app/', include('PhotoApp.urls')),

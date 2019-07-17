@@ -3,12 +3,15 @@
   <div class="container">
     <div class="jumbotron">
       <h1>Please Login</h1>
+      {% if notvalid %}
+            <h6 style="color:red">Invalid login details.</h6>
+          {% endif %}
 
-        <form method="post" action="{% url 'basic_app:user_login' %}">
+        <form method="post" action="{% url 'PhotoApp:user_login' %}">
           {% csrf_token %}
+          
           <label for="username">Username:</label>
           <input type="text" name="username" placeholder="Username">
-
           <label for="password"></label>
           <input type="password" name="password">
 

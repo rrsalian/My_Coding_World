@@ -8,6 +8,8 @@ from django.contrib.auth.decorators import login_required
 
 def home(request):
     return render(request,'PhotoApp/home.html')
+def welcome(request):
+    return render(request, 'PhotoApp/welcome.html')
 
 @login_required
 def special(request):
@@ -61,6 +63,8 @@ def register(request):
 
 def user_login(request):
 
+    notvalid=False
+
     if request.method == 'POST':
         username = request.POST.get('username')
         password = request.POST.get('password')
@@ -70,13 +74,14 @@ def user_login(request):
         if user:
             if user.is_active:
                 login(request,user)
-                return HttpResponseRedirect(reverse('index'))
+                return HttpResponseRedirect(reverse('home'))
             else:
                 return HttpResponse("Your account is not active.")
         else:
+            notvalid=True
             print("Someone tried to login and failed.")
             print("They used username: {} and password: {}".format(username,password))
-            return HttpResponse("Invalid login details supplied.")
+            return render(request, 'PhotoApp/login.html', {'notvalid':notvalid})
 
     else:
-        return render(request, 'PhotoApp/login.html', {})
+        return render(request, 'PhotoApp/login.html', {'notvalid':notvalid})

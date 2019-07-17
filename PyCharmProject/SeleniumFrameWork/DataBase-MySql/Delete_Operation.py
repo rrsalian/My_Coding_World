@@ -30,7 +30,7 @@ try:
         print(row[0], row[1], row[2])
 
 except Exception as e:
-    print("Exception occured",e)
+    print("Exception occured",e)   
 
 
 finally:
