@@ -1,7 +1,7 @@
 import instaloader
 
 L = instaloader.Instaloader()
-L.login('rr_salian', '16041996@VCET') 
+L.login('user_id', 'password') 
 profile = instaloader.Profile.from_username(L.context, "rr_salian")
 follow_list = []
 for followee in profile.get_followees():
