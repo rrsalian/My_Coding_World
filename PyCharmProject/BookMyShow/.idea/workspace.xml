@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e0f9a65-6855-47fb-a9a7-1a484c9f944c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/MyProject/MyProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Django_Practice/learning_users/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django_Practice/learning_users/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new1.py" beforeDir="false" afterPath="$PROJECT_DIR$/new1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumFrameWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumFrameWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled105.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../untitled105.py" afterDir="false" />
-    </list>
+    <list default="true" id="3e0f9a65-6855-47fb-a9a7-1a484c9f944c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,26 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/new1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,7 +64,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xpath" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -262,17 +231,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="63" />
         </state>
       </provider>
     </entry>
