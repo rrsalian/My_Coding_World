@@ -38,12 +38,7 @@ class Access{
 		} 
 		 catch (SQLException e) {
 			e.printStackTrace();
-		}
-		 
-
-
-
-
+		}	 
 
 	}
 }
