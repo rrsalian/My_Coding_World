@@ -1,18 +1,15 @@
-n=int(input("Enter :"))
+n=int(input())
 
+num=n
 s=""
-l=[]
-i=0
-k=1
-def find(k):
-    global i
-    k+=1
-    
-    if k<=n:
-        if(k%26==0):
-            l.append(find(k))
+while num>0:
+    if num%26==0:
+        s+="z"
+        num=(num//26)-1
     else:
-        return k
-    
-print(l)
-        
+        k=num%26
+        c=chr(64+k)
+        s+=c
+        num//=26
+
+print(s)

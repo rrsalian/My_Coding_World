@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642b0aae-78d8-4f00-a91f-c9e2db4ea99b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../BookMyShow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookMyShow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Project/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/Documents.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/Login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/Login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/Registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/Registration.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Project/Project1/WebContent/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Project/Project1/src/Controller/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Project/Project1/src/Controller/RegisterServlet.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Synchronization_implicit_wait/Implicit_wait_Magento.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
+            <state relative-caret-position="357">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -31,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Insta.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="69" column="16" lean-forward="true" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+            <state relative-caret-position="1365">
+              <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -55,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/slack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="210">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -140,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,13 +158,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Programming" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -319,7 +325,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15104167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -652,7 +657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Synchronization_implicit_wait/Implicit_wait_Magento.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
+        <state relative-caret-position="357">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -662,8 +667,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Insta.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="69" column="16" lean-forward="true" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        <state relative-caret-position="1365">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -672,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/slack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="210">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>

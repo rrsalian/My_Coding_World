@@ -25,6 +25,11 @@
 	<%if(request.getAttribute("f")!=null){
 		out.println("<p class='text-center' style='color:red'>email is already used</p>");
 }%>	
+
+
+<%if(request.getAttribute("filter")!=null){
+		out.println("<p class='text-center' style='color:red'>Plese enter correct information</p>");
+}%>	
 	<h4 class="card-title mt-3 text-center">Create Account</h4>
 	
 	<form action="RegisterServlet" method="POST">

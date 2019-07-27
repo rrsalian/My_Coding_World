@@ -38,9 +38,7 @@ public class RegisterServlet extends HttpServlet {
 		String phone=request.getParameter("phone");
 		String pass=request.getParameter("pass");
 		
-		System.out.println("hi");
 		Record rd=new Record();
-		System.out.println("hi");
 		try {
 		boolean b =rd.register(name, email, phone, pass) ;
 		if (b==false) {
