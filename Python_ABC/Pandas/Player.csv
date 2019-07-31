@@ -1,0 +1,524 @@
+Player_Id,Player_Name,DOB,Batting_Hand,Country
+1,SC Ganguly,08-Jul-72,Left_Hand,India
+2,BB McCullum,27-Sep-81,Right_Hand,New Zealand
+3,RT Ponting,19-Dec-74,Right_Hand,Australia
+4,DJ Hussey,15-Jul-77,Right_Hand,Australia
+5,Mohammad Hafeez,17-Oct-80,Right_Hand,Pakistan
+6,R Dravid,11-Jan-73,Right_Hand,India
+7,W Jaffer,16-Feb-78,Right_Hand,India
+8,V Kohli,05-Nov-88,Right_Hand,India
+9,JH Kallis,16-Oct-75,Right_Hand,South Africa
+10,CL White,18-Aug-83,Right_Hand,Australia
+11,MV Boucher,03-Dec-76,Right_Hand,South Africa
+12,B Akhil,07-Oct-77,Right_Hand,India
+13,AA Noffke,30-Apr-77,Right_Hand,Australia
+14,P Kumar,02-Oct-86,Right_Hand,India
+15,Z Khan,07-Oct-78,Right_Hand,India
+16,SB Joshi,06-Jun-70,Left_Hand,India
+17,PA Patel,09-Mar-85,Left_Hand,India
+18,ML Hayden,29-Oct-71,Left_Hand,Australia
+19,MEK Hussey,27-May-75,Left_Hand,Australia
+20,MS Dhoni,07-Jul-81,Right_Hand,India
+21,SK Raina,27-Nov-86,Left_Hand,India
+22,JDP Oram,28-Jul-78,Left_Hand,New Zealand
+23,S Badrinath,30-Aug-80,Right_Hand,India
+24,K Goel,24-Dec-86,Left_Hand,India
+25,JR Hopes,24-Oct-78,Right_Hand,Australia
+26,KC Sangakkara,27-Oct-77,Left_Hand,Sri Lanka
+27,Yuvraj Singh,12-Dec-81,Left_Hand,India
+28,SM Katich,21-Aug-75,Left_Hand,Australia
+29,IK Pathan,27-Oct-84,Left_Hand,India
+30,T Kohli,17-Dec-88,Right_Hand,India
+31,YK Pathan,17-Nov-82,Right_Hand,India
+32,SR Watson,17-Jun-81,Right_Hand,Australia
+33,M Kaif,01-Dec-80,Right_Hand,India
+34,DS Lehmann,05-Feb-70,Left_Hand,Australia
+35,RA Jadeja,06-Dec-88,Left_Hand,India
+36,M Rawat,25-Oct-85,Right_Hand,India
+37,D Salunkhe,12-Nov-82,Right_Hand,India
+38,SK Warne,13-Sep-69,Right_Hand,Australia
+39,SK Trivedi,04-Sep-82,Right_Hand,India
+40,G Gambhir,14-Oct-81,Left_Hand,India
+41,V Sehwag,20-Oct-78,Right_Hand,India
+42,S Dhawan,05-Dec-85,Left_Hand,India
+43,L Ronchi,23-Apr-81,Right_Hand,Australia
+44,ST Jayasuriya,30-Jun-69,Left_Hand,Sri Lanka
+45,DJ Thornely,01-Oct-78,Right_Hand,Australia
+46,RV Uthappa,11-Nov-85,Right_Hand,India
+47,PR Shah,03-Nov-87,Right_Hand,India
+48,AM Nayar,08-Oct-83,Left_Hand,India
+49,SM Pollock,16-Jul-73,Right_Hand,South Africa
+50,Harbhajan Singh,03-Jul-80,Right_Hand,India
+51,S Chanderpaul,16-Aug-74,Left_Hand,West Indies
+52,LRPL Taylor,08-Mar-84,Right_Hand,New Zealand
+53,AC Gilchrist,14-Nov-71,Left_Hand,Australia
+54,Y Venugopal Rao,26-Feb-82,Right_Hand,India
+55,VVS Laxman,01-Nov-74,Right_Hand,India
+56,A Symonds,09-Jun-75,Right_Hand,Australia
+57,RG Sharma,30-Apr-87,Right_Hand,India
+58,SB Styris,10-Jul-75,Right_Hand,New Zealand
+59,SB Bangar,11-Oct-72,Right_Hand,India
+60,WPUJC Vaas,27-Jan-74,Left_Hand,Sri Lanka
+61,RP Singh,06-Dec-85,Right_Hand,India
+62,WP Saha,24-Oct-84,Right_Hand,India
+63,LR Shukla,06-May-81,Right_Hand,India
+64,DPMD Jayawardene,27-May-77,Right_Hand,Sri Lanka
+65,S Sohal,10-Nov-87,Right_Hand,India
+66,B Lee,08-Nov-76,Right_Hand,Australia
+67,PP Chawla,24-Dec-88,Left_Hand,India
+68,WA Mota,20-Sep-81,Right_Hand,India
+69,Kamran Akmal,13-Jan-82,Right_Hand,Pakistan
+70,Shahid Afridi,01-Mar-80,Right_Hand,Pakistan
+71,DJ Bravo,07-Oct-83,Right_Hand,West Indies
+72,MA Khote,22-Apr-80,Right_Hand,India
+73,A Nehra,29-Apr-79,Right_Hand,India
+74,GC Smith,01-Feb-81,Left_Hand,South Africa
+75,Pankaj Singh,06-May-85,Right_Hand,India
+76,RR Sarwan,23-Jun-80,Right_Hand,West Indies
+77,S Sreesanth,06-Feb-83,Right_Hand,India
+78,VRV Singh,17-Sep-84,Right_Hand,India
+79,SS Tiwary,30-Dec-89,Left_Hand,India
+80,DS Kulkarni,10-Dec-88,Right_Hand,India
+81,R Vinay Kumar,12-Feb-84,Right_Hand,India
+82,AB Agarkar,04-Dec-77,Right_Hand,India
+83,M Kartik,11-Sep-76,Left_Hand,India
+84,I Sharma,02-Sep-88,Right_Hand,India
+85,AM Rahane,06-Jun-88,Right_Hand,India
+86,Shoaib Malik,01-Feb-82,Right_Hand,Pakistan
+87,MK Tiwary,14-Nov-85,Right_Hand,India
+88,KD Karthik,01-Jun-85,Right_Hand,India
+89,R Bhatia,22-Oct-79,Right_Hand,India
+90,MF Maharoof,07-Sep-84,Right_Hand,India
+91,VY Mahesh,21-Dec-87,Right_Hand,India
+92,TM Srivastava,07-Nov-89,Left_Hand,India
+93,B Chipli,27-Jan-83,Right_Hand,India
+94,DW Steyn,27-Jun-83,Right_Hand,South Africa
+95,DB Das,22-Sep-86,Right_Hand,India
+96,MK Pandey,10-Sep-89,Right_Hand,India
+97,HH Gibbs,23-Feb-74,Right_Hand,South Africa
+98,DNT Zoysa,13-May-78,Left_Hand,Sri Lanka
+99,D Kalyankrishna,16-Dec-83,Right_Hand,India
+100,SE Marsh,09-Jul-83,Left_Hand,Australia
+101,SA Asnodkar,29-Mar-84,Right_Hand,India
+102,Sohail Tanvir,12-Dec-84,Left_Hand,Pakistan
+103,Salman Butt,07-Oct-84,Left_Hand,Pakistan
+104,BJ Hodge,29-Dec-74,Right_Hand,Australia
+105,Umar Gul,14-Apr-84,Right_Hand,Pakistan
+106,AB Dinda,25-Mar-84,Right_Hand,India
+107,SP Fleming,01-Apr-73,Left_Hand,New Zealand
+108,S Vidyut,03-Dec-81,Left_Hand,India
+109,JA Morkel,10-Jun-81,Left_Hand,South Africa
+110,AB de Villiers,17-Feb-84,Right_Hand,South Africa
+111,LPC Silva,14-Dec-79,Right_Hand,Sri Lanka
+112,DB Ravi Teja,05-Sep-87,Right_Hand,India
+113,Misbah-ul-Haq,28-May-74,Right_Hand,Pakistan
+114,YV Takawale,05-Nov-84,Right_Hand,India
+115,RR Raje,03-Sep-86,Right_Hand,India
+116,PJ Sangwan,05-Nov-90,Right_Hand,India
+117,Mohammad Asif,20-Dec-82,Left_Hand,Pakistan
+118,GD McGrath,09-Feb-70,Right_Hand,Australia
+119,Joginder Sharma,23-Oct-83,Right_Hand,India
+120,MS Gony,04-Jan-84,Right_Hand,India
+121,M Muralitharan,17-Apr-72,Right_Hand,Sri Lanka
+122,M Ntini,06-Jul-77,Right_Hand,South Africa
+123,DT Patil,06-Dec-84,Right_Hand,India
+124,A Kumble,17-Oct-70,Right_Hand,India
+125,S Anirudha,14-Apr-87,Right_Hand,India
+126,MM Patel,12-Jul-83,Right_Hand,India
+127,CK Kapugedera,24-Feb-87,Right_Hand,Sri Lanka
+128,A Chopra,19-Sep-77,Right_Hand,India
+129,T Taibu,14-May-83,Right_Hand,Zimbabwea
+130,J Arunkumar,18-Jan-75,Right_Hand,India
+131,PP Ojha,05-Sep-86,Left_Hand,India
+132,SP Goswami,18-May-89,Left_Hand,India
+133,SR Tendulkar,24-Apr-73,Right_Hand,India
+134,U Kaul,02-Dec-87,Left_Hand,India
+135,TM Dilshan,14-Oct-76,Right_Hand,Sri Lanka
+136,A Mishra,24-Nov-82,Right_Hand,India
+137,AD Mascarenhas,30-Oct-77,Right_Hand,England
+138,NK Patel,26-Mar-81,Left_Hand,India
+139,LA Pomersbach,28-Sep-84,Left_Hand,Australia
+140,Iqbal Abdulla,02-Dec-89,Left_Hand,India
+141,Younis Khan,29-Nov-77,Right_Hand,Pakistan
+142,PM Sarvesh Kumar,26-Apr-89,Right_Hand,India
+143,DP Vijaykumar,20-Oct-86,Right_Hand,India
+144,Shoaib Akhtar,13-Aug-75,Right_Hand,Pakistan
+145,Abdur Razzak,15-Jun-82,Left_Hand,Bangladesh
+146,H Das,10-Dec-86,Right_Hand,India
+147,DR Smith,12-Apr-83,Right_Hand,West Indies
+148,SD Chitnis,06-May-87,Right_Hand,India
+149,CRD Fernando,19-Jul-79,Right_Hand,Sri Lanka
+150,VS Yeligati,23-Apr-85,Right_Hand,India
+151,L Balaji,27-Sep-81,Right_Hand,India
+152,A Mukund,06-Jan-90,Left_Hand,India
+153,RR Powar,20-May-78,Right_Hand,India
+154,JP Duminy,14-Apr-84,Left_Hand,South Africa
+155,A Flintoff,06-Dec-77,Right_Hand,England
+156,T Thushara,01-Mar-81,Left_Hand,Sri Lanka
+157,JD Ryder,06-Aug-84,Left_Hand,New Zealand
+158,KP Pietersen,27-Jun-80,Right_Hand,South Africa
+159,T Henderson,01-Aug-74,Right_Hand,South Africa
+160,Kamran Khan,10-Mar-91,Left_Hand,India
+161,RS Bopara,04-May-85,Right_Hand,England
+162,CH Gayle,21-Sep-79,Left_Hand,West Indies
+163,MC Henriques,01-Feb-87,Right_Hand,Australia
+164,R Bishnoi,08-Oct-87,Right_Hand,India
+165,FH Edwards,06-Feb-82,Right_Hand,West Indies
+166,KV Sharma,23-Oct-87,Left_Hand,India
+167,PC Valthaty,07-Dec-83,Right_Hand,India
+168,RJ Quiney,20-Aug-82,Left_Hand,Australia
+169,AS Raut,03-Mar-87,Right_Hand,India
+170,Yashpal Singh,27-Nov-81,Right_Hand,India
+171,M Manhas,12-Oct-79,Right_Hand,India
+172,AA Bilakhia,31-May-86,Right_Hand,India
+173,AN Ghosh,19-Oct-86,Right_Hand,India
+174,BAW Mendis,11-Mar-85,Right_Hand,Sri Lanka
+175,DL Vettori,27-Jan-79,Left_Hand,New Zealand
+176,MN van Wyk,20-Mar-79,Right_Hand,South Africa
+177,RE van der Merwe,31-Dec-84,Right_Hand,South Africa
+178,TL Suman,15-Dec-83,Right_Hand,India
+179,Shoaib Ahmed,17-Aug-90,Right_Hand,Pakistan
+180,GR Napier,06-Jan-80,Right_Hand,England
+181,KP Appanna,20-Dec-88,Right_Hand,India
+182,LA Carseldine,17-Nov-75,Left_Hand,Australia
+183,NV Ojha,20-Jul-83,Right_Hand,India
+184,SM Harwood,01-Mar-74,Right_Hand,Australia
+185,M Vijay,01-Apr-84,Right_Hand,India
+186,SB Jakati,27-Nov-80,Left_Hand,India
+187,DA Warner,27-Oct-86,Left_Hand,Australia
+188,RJ Harris,11-Oct-79,Right_Hand,Australia
+189,D du Preez,08-Nov-81,Right_Hand,South Africa
+190,M Morkel,06-Oct-84,Left_Hand,South Africa
+191,AD Mathews,02-Jun-87,Right_Hand,Sri Lanka
+192,J Botha,02-May-82,Right_Hand,South Africa
+193,C Nanda,29-Mar-79,Right_Hand,India
+194,SL Malinga,28-Aug-83,Right_Hand,Sri Lanka
+195,Mashrafe Mortaza,05-Oct-83,Right_Hand,Bangladesh
+196,A Singh,21-Jun-81,Right_Hand,India
+197,GJ Bailey,07-Sep-82,Right_Hand,Australia
+198,AB McDonald,05-Jun-81,Right_Hand,Australia
+199,Y Nagar,06-Jan-90,Right_Hand,India
+200,SS Shaikh,18-Jan-87,Right_Hand,India
+201,R Ashwin,17-Sep-86,Right_Hand,India
+202,Mohammad Ashraful,07-Jul-84,Right_Hand,Bangladesh
+203,CA Pujara,25-Jan-88,Right_Hand,India
+204,OA Shah,22-Oct-78,Right_Hand,England
+205,Anirudh Singh,02-Aug-80,Left_Hand,India
+206,Jaskaran Singh,04-Sep-89,Right_Hand,India
+207,AP Tare,07-Nov-87,Right_Hand,India
+208,AT Rayudu,23-Sep-85,Right_Hand,India
+209,R Sathish,14-Jan-81,Right_Hand,India
+210,R McLaren,09-Feb-83,Left_Hand,South Africa
+211,AA Jhunjhunwala,01-Dec-82,Right_Hand,India
+212,P Dogra,19-Nov-84,Right_Hand,India
+213,A Uniyal,21-Nov-81,Left_Hand,India
+214,MS Bisla,27-Dec-84,Right_Hand,India
+215,YA Abdulla,17-Jan-83,Left_Hand,India
+216,EJG Morgan,10-Sep-86,Left_Hand,England
+217,JM Kemp,02-Oct-77,Right_Hand,South Africa
+218,S Tyagi,17-Sep-87,Right_Hand,India
+219,RS Gavaskar,20-Feb-76,Left_Hand,India
+220,SE Bond,07-Jun-75,Right_Hand,New Zealand
+221,KA Pollard,12-May-87,Right_Hand,West Indies
+222,S Ladda,10-Jul-86,Right_Hand,India
+223,DP Nannes,16-May-76,Right_Hand,Australia
+224,MJ Lumb,12-Feb-80,Left_Hand,England
+225,DR Martyn,21-Oct-71,Right_Hand,Australia
+226,S Narwal,16-Apr-82,Left_Hand,India
+227,AB Barath,14-Apr-90,Right_Hand,India
+228,Bipul Sharma,28-Sep-83,Left_Hand,India
+229,FY Fazal,07-Sep-85,Left_Hand,India
+230,AC Voges,04-Oct-79,Right_Hand,Australia
+231,MD Mishra,09-Feb-84,Right_Hand,India
+232,UT Yadav,25-Oct-87,Right_Hand,India
+233,J Theron,24-Jul-85,Right_Hand,South Africa
+234,SJ Srivastava,22-Sep-81,Right_Hand,India
+235,R Sharma,30-Apr-87,Right_Hand,India
+236,Mandeep Singh,18-Dec-91,Right_Hand,India
+237,KM Jadhav,26-Mar-85,Right_Hand,India
+238,SW Tait,22-Feb-83,Right_Hand,Australia
+239,KB Arun Karthik,15-Feb-86,Right_Hand,India
+240,KAJ Roach,30-Jun-88,Right_Hand,West Indies
+241,PD Collingwood,26-May-76,Right_Hand,England
+242,CK Langeveldt,17-Dec-74,Right_Hand,England
+243,VS Malik,09-May-83,Right_Hand,India
+244,A Mithun,25-Oct-89,Right_Hand,India
+245,AP Dole,09-Oct-87,Right_Hand,India
+246,AN Ahmed,05-Nov-88,Right_Hand,India
+247,RS Sodhi,18-Oct-80,Right_Hand,India
+248,DE Bollinger,24-Jul-81,Left_Hand,Australia
+249,S Sriram,21-Feb-76,Left_Hand,India
+250,B Sumanth,10-May-88,Right_Hand,India
+251,C Madan,15-Oct-82,Right_Hand,India
+252,AG Paunikar,18-Apr-88,Right_Hand,India
+253,MR Marsh,20-Oct-91,Right_Hand,Australia
+254,AJ Finch,17-Nov-86,Right_Hand,Australia
+255,STR Binny,03-Jun-84,Right_Hand,India
+256,Harmeet Singh,07-Sep-92,Left_Hand,India
+257,IR Jaggi,27-Jan-89,Right_Hand,India
+258,DT Christian,04-May-83,Right_Hand,Australia
+259,RV Gomez,16-Oct-85,Right_Hand,India
+260,MA Agarwal,16-Feb-91,Right_Hand,India
+261,AUK Pathan,17-Jun-84,Right_Hand,India
+262,UBT Chand,26-Mar-93,Right_Hand,India
+263,DJ Jacobs,04-Nov-82,Right_Hand,South Africa
+264,Sunny Singh,18-Dec-86,Right_Hand,India
+265,NJ Rimmington,11-Nov-82,Right_Hand,Australia
+266,AL Menaria,29-Oct-90,Left_Hand,India
+267,WD Parnell,30-Jul-89,Left_Hand,South Africa
+268,JJ van der Wath,10-Jan-78,Right_Hand,South Africa
+269,R Ninan,19-Nov-85,Right_Hand,India
+270,S Aravind,08-Apr-84,Left_Hand,India
+271,MS Wade,26-Dec-87,Left_Hand,Australia
+272,TD Paine,08-Dec-84,Right_Hand,Australia
+273,SB Wagh,09-Oct-88,Left_Hand,India
+274,AC Thomas,09-Feb-77,Right_Hand,England
+275,JEC Franklin,07-Nov-80,Left_Hand,New Zealand
+276,Shakib Al Hasan,24-Mar-87,Left_Hand,Bangladesh
+277,DH Yagnik,22-Jun-83,Left_Hand,India
+278,S Randiv,30-Jan-85,Right_Hand,Sri Lanka
+279,BJ Haddin,23-Oct-77,Right_Hand,Australia
+280,NLTC Perera,03-Apr-89,Left_Hand,Sri Lanka
+281,NL McCullum,01-Sep-80,Right_Hand,New Zealand
+282,JE Taylor,22-Jun-84,Right_Hand,New Zealand
+283,J Syed Mohammad,03-Jun-83,Left_Hand,India
+284,RN ten Doeschate,30-Jun-80,Right_Hand,Netherlands
+285,TR Birt,09-Dec-81,Left_Hand,Australia
+286,AG Murtaza,01-Jan-90,Left_Hand,India
+287,Harpreet Singh,11-Aug-91,Left_Hand,India
+288,M Klinger,04-Jul-80,Right_Hand,Australia
+289,AC Blizzard,27-Jun-84,Left_Hand,Australia
+290,I Malhotra,23-May-84,Right_Hand,India
+291,L Ablish,03-Dec-82,Right_Hand,India
+292,CA Ingram,03-Jul-85,Left_Hand,South Africa
+293,S Nadeem,12-Aug-89,Right_Hand,India
+294,P Parameswaran,30-May-85,Right_Hand,India
+295,CJ Ferguson,21-Nov-84,Right_Hand,Australia
+296,VR Aaron,29-Oct-89,Right_Hand,India
+297,AA Chavan,28-Oct-85,Left_Hand,India
+298,ND Doshi,06-Oct-78,Right_Hand,India
+299,B Kumar,05-Feb-90,Right_Hand,India
+300,Y Gnaneswara Rao,25-Aug-84,Right_Hand,India
+301,S Rana,18-Sep-84,Right_Hand,India
+302,BA Bhatt,13-May-90,Left_Hand,India
+303,F du Plessis,13-Jul-84,Right_Hand,South Africa
+304,RE Levi,14-Jan-88,Right_Hand,South Africa
+305,GJ Maxwell,14-Oct-88,Right_Hand,Australia
+306,SPD Smith,02-Jun-89,Right_Hand,India
+307,MN Samuels,05-Feb-81,Right_Hand,West Indies
+308,SA Yadav,14-Sep-90,Right_Hand,India
+309,KK Cooper,16-Feb-89,Right_Hand,West Indies
+310,JP Faulkner,29-Apr-90,Right_Hand,Australia
+311,HV Patel,23-Nov-90,Right_Hand,India
+312,DAJ Bracewell,28-Sep-90,Right_Hand,New Zealand
+313,DJ Harris,31-Dec-79,Right_Hand,Australia
+314,Ankit Sharma,20-Apr-91,Left_Hand,India
+315,SP Narine,26-May-88,Left_Hand,West Indies
+316,GB Hogg,06-Feb-71,Left_Hand,Australia
+317,RR Bhatkal,01-Sep-85,Right_Hand,India
+318,CJ McKay,20-Feb-83,Right_Hand,Australia
+319,N Saini,28-Oct-88,Right_Hand,India
+320,DA Miller,10-Jun-89,Left_Hand,South Africa
+321,Azhar Mahmood,28-Feb-75,Right_Hand,Pakistan
+322,P Negi,06-Jan-93,Left_Hand,India
+323,RJ Peterson,04-Aug-79,Left_Hand,South Africa
+324,KMDN Kulasekara,22-Jul-82,Right_Hand,Sri Lanka
+325,A Ashish Reddy,24-Feb-91,Right_Hand,India
+326,V Pratap Singh,03-May-92,Right_Hand,India
+327,BB Samantray,14-Dec-88,Right_Hand,India
+328,MJ Clarke,02-Apr-81,Right_Hand,Australia
+329,Gurkeerat Singh,29-Jun-90,Right_Hand,India
+330,AP Majumdar,30-Apr-84,Right_Hand,India
+331,PA Reddy,11-Feb-91,Right_Hand,India
+332,K Upadhyay,18-Jun-86,Right_Hand,India
+333,P Awana,19-Jul-86,Right_Hand,India
+334,AD Russell,29-Apr-88,Right_Hand,West Indies
+335,A Chandila,05-Dec-83,Right_Hand,India
+336,CA Lynn,10-Apr-90,Right_Hand,Australia
+337,Sunny Gupta,27-Sep-88,Right_Hand,India
+338,MC Juneja,12-Sep-90,Right_Hand,India
+339,KK Nair,06-Dec-91,Right_Hand,India
+340,GH Vihari,13-Oct-93,Right_Hand,India
+341,MDKJ Perera,17-Aug-90,Left_Hand,Sri Lanka
+342,R Shukla,28-Aug-90,Right_Hand,India
+343,B Laughlin,03-Oct-82,Right_Hand,Australia
+344,AS Rajpoot,04-Dec-93,Right_Hand,India
+345,M Vohra,18-Jul-93,Right_Hand,India
+346,JD Unadkat,18-Oct-91,Right_Hand,India
+347,Mohammed Shami,03-Sep-90,Right_Hand,India
+348,BMAJ Mendis,15-Jan-83,Left_Hand,Sri Lanka
+349,R Rampaul,15-Oct-84,Left_Hand,West Indies
+350,CH Morris,30-Apr-87,Right_Hand,South Africa
+351,SV Samson,11-Nov-94,Right_Hand,India
+352,SMSM Senanayake,09-Feb-85,Right_Hand,Sri Lanka
+353,BJ Rohrer,26-Mar-81,Left_Hand,Australia
+354,KL Rahul,18-Apr-92,Right_Hand,India
+355,Q de Kock,17-Dec-92,Left_Hand,South Africa
+356,R Dhawan,19-Feb-90,Right_Hand,India
+357,MG Johnson,02-Nov-81,Left_Hand,Australia
+358,LJ Wright,07-Mar-85,Right_Hand,England
+359,IC Pandey,15-Aug-89,Right_Hand,India
+360,CM Gautam,08-Mar-86,Right_Hand,India
+361,X Thalaivan Sargunam,15-May-85,Right_Hand,India
+362,DJG Sammy,20-Dec-83,Right_Hand,West Indies
+363,KW Richardson,12-Feb-91,Right_Hand,Australia
+364,MM Sharma,18-Sep-88,Right_Hand,India
+365,UA Birla,17-Nov-89,Right_Hand,India
+366,Parvez Rasool,13-Feb-89,Right_Hand,India
+367,Sandeep Sharma,18-May-93,Right_Hand,India
+368,S Kaul,19-May-90,Right_Hand,India
+369,Sachin Baby,18-Dec-88,Left_Hand,India
+370,PV Tambe,08-Oct-71,Right_Hand,India
+371,NM Coulter-Nile,11-Oct-87,Right_Hand,Australia
+372,CJ Anderson,13-Dec-90,Left_Hand,New Zealand
+373,NJ Maddinson,21-Dec-91,Left_Hand,Australia
+374,AR Patel,20-Jan-94,Left_Hand,India
+375,JJ Bumrah,06-Dec-93,Right_Hand,India
+376,JDS Neesham,17-Sep-90,Left_Hand,New Zealand
+377,TG Southee,11-Dec-88,Right_Hand,New Zealand
+378,MA Starc,30-Jan-90,Left_Hand,Australia
+379,BR Dunk,11-Mar-87,Left_Hand,Australia
+380,RR Rossouw,09-Oct-89,Left_Hand,South Africa
+381,Shivam Sharma,09-Sep-93,Right_Hand,India
+382,YS Chahal,23-Jul-90,Right_Hand,India
+383,LMP Simmons,25-Jan-85,Right_Hand,West Indies
+384,VH Zol,23-Nov-94,Left_Hand,India
+385,BCJ Cutting,30-Jan-87,Right_Hand,Australia
+386,Imran Tahir,27-Mar-79,Right_Hand,India
+387,BE Hendricks,08-Jun-90,Left_Hand,South Africa
+388,S Gopal,04-Sep-93,Right_Hand,India
+389,M de Lange,13-Oct-90,Right_Hand,South Africa
+390,R Tewatia,20-May-93,Left_Hand,India
+391,JO Holder,05-Nov-91,Right_Hand,West Indies
+392,Karanveer Singh,08-Nov-87,Right_Hand,India
+393,SS Iyer,06-Dec-94,Right_Hand,India
+394,DJ Hooda,19-Apr-95,Right_Hand,India
+395,Anureet Singh,02-Mar-88,Right_Hand,India
+396,KS Williamson,08-Aug-90,Right_Hand,New Zealand
+397,SA Abbott,29-Feb-92,Right_Hand,New Zealand
+398,J Suchith,16-Jan-94,Left_Hand,India
+399,RG More,02-Feb-92,Right_Hand,India
+400,HH Pandya,11-Oct-93,Right_Hand,India
+401,D Wiese,18-May-85,Right_Hand,South Africa
+402,SN Khan,27-Oct-97,Right_Hand,India
+403,MJ McClenaghan,11-Jun-86,Left_Hand,New Zealand
+404,DJ Muthuswami,09-Mar-81,Right_Hand,India
+405,PJ Cummins,08-May-93,Right_Hand,Australia
+406,SN Thakur,16-Oct-91,Right_Hand,India
+407,JC Buttler,08-Sep-90,Right_Hand,England
+408,CR Brathwaite,18-Jul-88,Right_Hand,West Indies
+409,MP Stoinis,16-Aug-89,Right_Hand,Australia
+410,Ishan Kishan,18-Jul-98,Left_Hand,India
+411,C Munro,11-Mar-87,Left_Hand,New Zealand
+412,P Sahu,21-Aug-85,Right_Hand,India
+413,KH Pandya,24-Mar-91,Left_Hand,India
+414,AD Nath,10-May-93,Right_Hand,India
+415,MJ Guptill,30-Sep-86,Right_Hand,New Zealand
+416,KJ Abbott,18-Jun-87,Right_Hand,South Africa
+417,TM Head,29-Dec-93,Left_Hand,Australia
+418,M Ashwin,08-Sep-90,Right_Hand,India
+419,NS Naik,09-Nov-94,Right_Hand,India
+420,RR Pant,04-Oct-97,Left_Hand,India
+421,SW Billings,15-Jun-91,Right_Hand,England
+422,KC Cariappa,13-Apr-94,Right_Hand,India
+423,PSP Handscomb,26-Apr-91,Right_Hand,Australia
+424,Swapnil Singh,22-Jan-91,Right_Hand,India
+425,J Yadav,22-Jan-90,Right_Hand,India
+426,UT Khawaja,18-Dec-86,Left_Hand,Australia
+427,HM Amla,31-Mar-83,Right_Hand,South Africa
+428,F Behardien,09-Oct-83,Right_Hand,South Africa
+429,BB Sran,10-Dec-92,Left_Hand,India
+430,A Zampa,31-Mar-92,Right_Hand,Australia
+431,N Rana,27-Dec-93,Left_Hand,India
+432,S Kaushik,07-Sep-95,Right_Hand,India
+433,ER Dwivedi,22-Jul-88,Right_Hand,India
+434,CJ Jordan,04-Oct-88,Right_Hand,England
+435,P Amarnath,01-Jun-82,Right_Hand,India
+436,B Geeves,13-Jun-82,Right_Hand,Australia
+437,Gagandeep Singh,03-Oct-81,Right_Hand,India
+438,A Nel,15-Jul-77,Right_Hand,South Africa
+439,AM Salvi,20-Oct-81,Right_Hand,India
+440,RR Bose,27-Feb-79,Right_Hand,India
+441,SS Sarkar,15-Dec-84,Right_Hand,India
+442,RA Shaikh,12-Jun-85,Left_Hand,India
+443,C Ganapathy,10-Jun-81,Right_Hand,India
+444,MB Parmar,12-Apr-88,Right_Hand,India
+445,AA Kazi,29-Sep-89,Left_Hand,India
+446,Anand Rajan,17-Apr-87,Right_Hand,India
+447,P Prasanth,22-May-85,Left_Hand,India
+448,SS Mundhe,27-Oct-88,Right_Hand,India
+449,RW Price,12-Jun-76,Right_Hand,Zimbabwea
+450,TP Sudhindra,24-Apr-84,Left_Hand,India
+451,BW Hilfenhaus,15-Mar-83,Right_Hand,Australia
+452,S Badree,09-Mar-81,Right_Hand,West Indies
+453,P Suyal,15-Oct-89,Right_Hand,India
+454,MG Neser,29-Mar-90,Right_Hand,Australia
+455,V Shankar,26-Jan-91,Right_Hand,India
+456,K Santokie,20-Dec-84,Left_Hand,West Indies
+457,JW Hastings,04-Nov-85,Right_Hand,Australia
+458,TA Boult,22-Jul-89,Right_Hand,New Zealand
+459,GS Sandhu,14-Jun-93,Left_Hand,Australia
+460,Mustafizur Rahman,06-Sep-95,Left_Hand,Bangladesh
+461,AF Milne,13-Apr-92,Right_Hand,New Zealand
+462,Kuldeep Yadav,14-Dec-94,Left_Hand,India
+463,T Shamsi,18-Feb-90,Right_Hand,South Africa
+464,SM Boland,11-Apr-89,Right_Hand,Australia
+465,DL Chahar,07-Aug-92,Right_Hand,India
+466,P Dharmani,27-Sep-74,Right_Hand,India
+467,RV Pawar,06-Sep-79,Left_Hand,India
+468,KH Devdhar,14-Dec-89,Right_Hand,India
+469,T Mishra,22-Dec-86,Right_Hand,India
+470,Asad Rauf,NULL,NULL,Pakistan
+471,MR Benson,NULL,NULL,England
+472,Aleem Dar,NULL,NULL,Pakistan
+473,SJ Davis,NULL,NULL,England
+474,BF Bowden,NULL,NULL,New Zealand
+475,IL Howell,NULL,NULL,South Africa
+476,DJ Harper,NULL,NULL,Australia
+477,RE Koertzen,NULL,NULL,South Africa
+478,BR Doctrove,NULL,NULL,West Indies
+479,AV Jayaprakash,NULL,NULL,India
+480,BG Jerling,NULL,NULL,South Africa
+481,M Erasmus,NULL,NULL,South Africa
+482,HDPK Dharmasena,NULL,NULL,Sri Lanka
+483,S Asnani,NULL,NULL,India
+484,GAV Baxter,NULL,NULL,New Zealand
+485,SS Hazare,NULL,NULL,India
+486,K Hariharan,NULL,NULL,India
+487,SL Shastri,NULL,NULL,India
+488,SK Tarapore,NULL,NULL,India
+489,S Ravi,NULL,NULL,India
+490,SJA Taufel,NULL,NULL,Australia
+491,S Das,NULL,NULL,India
+492,AM Saheba,NULL,NULL,India
+493,PR Reiffel,NULL,NULL,Australia
+494,JD Cloete,NULL,NULL,South Africa
+495,AK Chaudhary,NULL,NULL,India
+496,VA Kulkarni,NULL,NULL,India
+497,BNJ Oxenford,NULL,NULL,Australia
+498,CK Nandan,NULL,NULL,India
+499,C Shamshuddin,NULL,NULL,India
+500,NJ Llong,NULL,NULL,England
+501,RK Illingworth,NULL,NULL,England
+502,RM Deshpande,NULL,NULL,India
+503,K Srinath,NULL,NULL,India
+504,SD Fry,NULL,NULL,Australia
+505,CB Gaffaney,NULL,NULL,New Zealand
+506,PG Pathak,NULL,NULL,India
+507,Nitin Menon,NULL,NULL,India
+508,K Bharatan,NULL,NULL,India
+509,AY Dandekar,NULL,NULL,India
+510,KN Ananthapadmanabhan,NULL,NULL,India
+511,A Nand Kishore,NULL,NULL,India
+512,GA Pratapkumar,NULL,NULL,India
+513,RB Tiffin,NULL,NULL,Zimbabwea
+514,I Shivram,NULL,NULL,India
+515,SD Ranade,NULL,NULL,India
+516,TH Wijewardene,NULL,NULL,Sri Lanka
+517,AL Hill,NULL,NULL,New Zealand
+518,RJ Tucker,NULL,NULL,Australia
+519,Subroto Das,NULL,NULL,India
+520,K Srinivasan,NULL,NULL,India
+521,VK Sharma,NULL,NULL,India
+523,AV Wankhade,14-Mar-92,Right_Hand,India
+524,B Aparajith,08-Jul-94,Right_Hand,India
