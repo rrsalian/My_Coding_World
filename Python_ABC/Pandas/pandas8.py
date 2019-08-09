@@ -22,3 +22,14 @@ df3 = pd.DataFrame({'A': ['A8', 'A9', 'A10', 'A11'],
  index = [8, 9, 10, 11])
 
 print(pd.concat([df1, df2, df3]))
+
+  
+
+
+
+
+
+
+
+
+
